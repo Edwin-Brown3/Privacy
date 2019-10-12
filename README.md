@@ -1,3 +1,4 @@
+#PrivacyPolicy
 Privacy policy for Arachnidoom Nightmare!
 
 Samuel Brown built the Arachnidoom Nightmare! app as an Ad Supported app. This SERVICE is provided by Samuel Brown at no cost and is intended for use as is.
